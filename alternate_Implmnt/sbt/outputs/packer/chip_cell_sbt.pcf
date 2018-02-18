@@ -1,0 +1,134 @@
+ble_pack CONSTANT_ONE_LUT4_LC_18_12_6 { CONSTANT_ONE_LUT4 }
+clb_pack LT_18_12 { CONSTANT_ONE_LUT4_LC_18_12_6 }
+set_location LT_18_12 18 12
+ble_pack my_alternate.count_0_LC_19_6_0 { my_alternate.count_RNO[0], my_alternate.count[0], my_alternate.count_cry_c[0] }
+ble_pack my_alternate.count_1_LC_19_6_1 { my_alternate.count_RNO[1], my_alternate.count[1], my_alternate.count_cry_c[1] }
+ble_pack my_alternate.count_2_LC_19_6_2 { my_alternate.count_RNO[2], my_alternate.count[2], my_alternate.count_cry_c[2] }
+ble_pack my_alternate.count_3_LC_19_6_3 { my_alternate.count_RNO[3], my_alternate.count[3], my_alternate.count_cry_c[3] }
+ble_pack my_alternate.count_4_LC_19_6_4 { my_alternate.count_RNO[4], my_alternate.count[4], my_alternate.count_cry_c[4] }
+ble_pack my_alternate.count_5_LC_19_6_5 { my_alternate.count_RNO[5], my_alternate.count[5], my_alternate.count_cry_c[5] }
+ble_pack my_alternate.count_6_LC_19_6_6 { my_alternate.count_RNO[6], my_alternate.count[6], my_alternate.count_cry_c[6] }
+ble_pack my_alternate.count_7_LC_19_6_7 { my_alternate.count_RNO[7], my_alternate.count[7], my_alternate.count_cry_c[7] }
+clb_pack LT_19_6 { my_alternate.count_0_LC_19_6_0, my_alternate.count_1_LC_19_6_1, my_alternate.count_2_LC_19_6_2, my_alternate.count_3_LC_19_6_3, my_alternate.count_4_LC_19_6_4, my_alternate.count_5_LC_19_6_5, my_alternate.count_6_LC_19_6_6, my_alternate.count_7_LC_19_6_7 }
+set_location LT_19_6 19 6
+ble_pack my_alternate.count_8_LC_19_7_0 { my_alternate.count_RNO[8], my_alternate.count[8], my_alternate.count_cry_c[8] }
+ble_pack my_alternate.count_9_LC_19_7_1 { my_alternate.count_RNO[9], my_alternate.count[9], my_alternate.count_cry_c[9] }
+ble_pack my_alternate.count_10_LC_19_7_2 { my_alternate.count_RNO[10], my_alternate.count[10], my_alternate.count_cry_c[10] }
+ble_pack my_alternate.count_11_LC_19_7_3 { my_alternate.count_RNO[11], my_alternate.count[11], my_alternate.count_cry_c[11] }
+ble_pack my_alternate.count_12_LC_19_7_4 { my_alternate.count_RNO[12], my_alternate.count[12], my_alternate.count_cry_c[12] }
+ble_pack my_alternate.count_13_LC_19_7_5 { my_alternate.count_RNO[13], my_alternate.count[13], my_alternate.count_cry_c[13] }
+ble_pack my_alternate.count_14_LC_19_7_6 { my_alternate.count_RNO[14], my_alternate.count[14], my_alternate.count_cry_c[14] }
+ble_pack my_alternate.count_15_LC_19_7_7 { my_alternate.count_RNO[15], my_alternate.count[15], my_alternate.count_cry_c[15] }
+clb_pack LT_19_7 { my_alternate.count_8_LC_19_7_0, my_alternate.count_9_LC_19_7_1, my_alternate.count_10_LC_19_7_2, my_alternate.count_11_LC_19_7_3, my_alternate.count_12_LC_19_7_4, my_alternate.count_13_LC_19_7_5, my_alternate.count_14_LC_19_7_6, my_alternate.count_15_LC_19_7_7 }
+set_location LT_19_7 19 7
+ble_pack my_alternate.count_16_LC_19_8_0 { my_alternate.count_RNO[16], my_alternate.count[16], my_alternate.count_cry_c[16] }
+ble_pack my_alternate.count_17_LC_19_8_1 { my_alternate.count_RNO[17], my_alternate.count[17], my_alternate.count_cry_c[17] }
+ble_pack my_alternate.count_18_LC_19_8_2 { my_alternate.count_RNO[18], my_alternate.count[18], my_alternate.count_cry_c[18] }
+ble_pack my_alternate.count_19_LC_19_8_3 { my_alternate.count_RNO[19], my_alternate.count[19], my_alternate.count_cry_c[19] }
+ble_pack my_alternate.count_20_LC_19_8_4 { my_alternate.count_RNO[20], my_alternate.count[20], my_alternate.count_cry_c[20] }
+ble_pack my_alternate.count_21_LC_19_8_5 { my_alternate.count_RNO[21], my_alternate.count[21], my_alternate.count_cry_c[21] }
+ble_pack my_alternate.count_22_LC_19_8_6 { my_alternate.count_RNO[22], my_alternate.count[22], my_alternate.count_cry_c[22] }
+ble_pack my_alternate.count_23_LC_19_8_7 { my_alternate.count_RNO[23], my_alternate.count[23], my_alternate.count_cry_c[23] }
+clb_pack LT_19_8 { my_alternate.count_16_LC_19_8_0, my_alternate.count_17_LC_19_8_1, my_alternate.count_18_LC_19_8_2, my_alternate.count_19_LC_19_8_3, my_alternate.count_20_LC_19_8_4, my_alternate.count_21_LC_19_8_5, my_alternate.count_22_LC_19_8_6, my_alternate.count_23_LC_19_8_7 }
+set_location LT_19_8 19 8
+ble_pack my_alternate.count_24_LC_19_9_0 { my_alternate.count_RNO[24], my_alternate.count[24] }
+clb_pack LT_19_9 { my_alternate.count_24_LC_19_9_0 }
+set_location LT_19_9 19 9
+ble_pack my_alternate.count_RNIQ674_24_LC_23_1_1 { my_alternate.count_RNIQ674[24] }
+clb_pack LT_23_1 { my_alternate.count_RNIQ674_24_LC_23_1_1 }
+set_location LT_23_1 23 1
+set_io clk 129
+set_io RAMWE 120
+set_io RAMOE 45
+set_io RAMCS 136
+set_io PMOD[9] 102
+set_io PMOD[8] 105
+set_io PMOD[7] 87
+set_io PMOD[6] 90
+set_io PMOD[55] 70
+set_io PMOD[54] 68
+set_io PMOD[53] 67
+set_io PMOD[52] 71
+set_io PMOD[51] 23
+set_io PMOD[50] 24
+set_io PMOD[5] 93
+set_io PMOD[49] 28
+set_io PMOD[48] 29
+set_io PMOD[47] 25
+set_io PMOD[46] 26
+set_io PMOD[45] 31
+set_io PMOD[44] 32
+set_io PMOD[43] 21
+set_io PMOD[42] 22
+set_io PMOD[41] 33
+set_io PMOD[40] 34
+set_io PMOD[4] 95
+set_io PMOD[39] 11
+set_io PMOD[38] 12
+set_io PMOD[37] 17
+set_io PMOD[36] 18
+set_io PMOD[35] 15
+set_io PMOD[34] 16
+set_io PMOD[33] 19
+set_io PMOD[32] 20
+set_io PMOD[31] 3
+set_io PMOD[30] 4
+set_io PMOD[3] 85
+set_io PMOD[29] 7
+set_io PMOD[28] 8
+set_io PMOD[27] 1
+set_io PMOD[26] 2
+set_io PMOD[25] 9
+set_io PMOD[24] 10
+set_io PMOD[23] 106
+set_io PMOD[22] 110
+set_io PMOD[21] 113
+set_io PMOD[20] 144
+set_io PMOD[2] 88
+set_io PMOD[19] 107
+set_io PMOD[18] 112
+set_io PMOD[17] 114
+set_io PMOD[16] 143
+set_io PMOD[15] 96
+set_io PMOD[14] 98
+set_io PMOD[13] 101
+set_io PMOD[12] 104
+set_io PMOD[11] 97
+set_io PMOD[10] 99
+set_io PMOD[1] 91
+set_io PMOD[0] 94
+set_io DAT[9] 60
+set_io DAT[8] 61
+set_io DAT[7] 121
+set_io DAT[6] 122
+set_io DAT[5] 124
+set_io DAT[4] 125
+set_io DAT[3] 128
+set_io DAT[2] 130
+set_io DAT[15] 47
+set_io DAT[14] 48
+set_io DAT[13] 49
+set_io DAT[12] 52
+set_io DAT[11] 55
+set_io DAT[10] 56
+set_io DAT[1] 134
+set_io DAT[0] 135
+set_io ADR[9] 74
+set_io ADR[8] 73
+set_io ADR[7] 44
+set_io ADR[6] 43
+set_io ADR[5] 42
+set_io ADR[4] 142
+set_io ADR[3] 141
+set_io ADR[2] 139
+set_io ADR[18] 62
+set_io ADR[17] 78
+set_io ADR[16] 119
+set_io ADR[15] 118
+set_io ADR[14] 117
+set_io ADR[13] 116
+set_io ADR[12] 115
+set_io ADR[11] 76
+set_io ADR[10] 75
+set_io ADR[1] 138
+set_io ADR[0] 137

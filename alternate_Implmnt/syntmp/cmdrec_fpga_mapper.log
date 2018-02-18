@@ -1,0 +1,14 @@
+/home/ed/lscc/iCEcube2.2017.08/synpbase/bin/m_generic  -prodtype  synplify_pro   -encrypt  -pro  -rundir  /home/ed/dev/alternate/alternate/alternate_Implmnt   -part iCE40HX4K  -package TQ144    -maxfan 10000 -RWCheckOnRam 0 -pipe -fixgatedclocks 1 -fixgeneratedclocks 1 -summaryfile /home/ed/dev/alternate/alternate/alternate_Implmnt/synlog/report/alternate_fpga_mapper.xml  -flow mapping  -multisrs  -oedif  /home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.edf   -autoconstraint  -freq 1.000   /home/ed/dev/alternate/alternate/alternate_Implmnt/synwork/alternate_prem.srd  -sap  /home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.sap  -otap  /home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.tap  -omap  /home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.map  -devicelib  /home/ed/lscc/iCEcube2.2017.08/synpbase/lib/generic/sb_ice40.v  -sap  /home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.sap  -ologparam  /home/ed/dev/alternate/alternate/alternate_Implmnt/syntmp/alternate.plg  -osyn  /home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.srm  -prjdir  /home/ed/dev/alternate/alternate/  -prjname  alternate_syn  -log  /home/ed/dev/alternate/alternate/alternate_Implmnt/synlog/alternate_fpga_mapper.srr 
+rc:1 success:1 runtime:1
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.edf|io:o|time:1518966879|size:81157|exec:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/synwork/alternate_prem.srd|io:i|time:1518966878|size:4313|exec:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.sap|io:o|time:1518966878|size:361|exec:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.tap|io:o|time:0|size:0|exec:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.map|io:o|time:1518966879|size:27|exec:0
+file:/home/ed/lscc/iCEcube2.2017.08/synpbase/lib/generic/sb_ice40.v|io:i|time:1512420706|size:220434|exec:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.sap|io:o|time:1518966878|size:361|exec:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/syntmp/alternate.plg|io:o|time:1518966879|size:426|exec:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.srm|io:o|time:1518966879|size:11322|exec:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/synlog/alternate_fpga_mapper.srr|io:o|time:1518966879|size:56625|exec:0
+file:/home/ed/lscc/iCEcube2.2017.08/synpbase/linux_a_64/m_generic|io:i|time:1512420707|size:32925640|exec:1
+file:/home/ed/lscc/iCEcube2.2017.08/synpbase/bin/m_generic|io:i|time:1512420705|size:345|exec:1

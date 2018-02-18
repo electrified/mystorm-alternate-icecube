@@ -1,0 +1,172 @@
+set_location my_alternate.count_RNIQ674[24] 23 1 1 # SB_LUT4 (LogicCell: my_alternate.count_RNIQ674[24]_LC_0)
+set_location my_alternate.count_RNO[0] 19 6 0 # SB_LUT4 (LogicCell: my_alternate.count[0]_LC_1)
+set_location my_alternate.count[0] 19 6 0 # SB_DFF (LogicCell: my_alternate.count[0]_LC_1)
+set_location my_alternate.count_cry_c[0] 19 6 0 # SB_CARRY (LogicCell: my_alternate.count[0]_LC_1)
+set_location my_alternate.count_RNO[1] 19 6 1 # SB_LUT4 (LogicCell: my_alternate.count[1]_LC_2)
+set_location my_alternate.count[1] 19 6 1 # SB_DFF (LogicCell: my_alternate.count[1]_LC_2)
+set_location my_alternate.count_cry_c[1] 19 6 1 # SB_CARRY (LogicCell: my_alternate.count[1]_LC_2)
+set_location my_alternate.count_RNO[10] 19 7 2 # SB_LUT4 (LogicCell: my_alternate.count[10]_LC_3)
+set_location my_alternate.count[10] 19 7 2 # SB_DFF (LogicCell: my_alternate.count[10]_LC_3)
+set_location my_alternate.count_cry_c[10] 19 7 2 # SB_CARRY (LogicCell: my_alternate.count[10]_LC_3)
+set_location my_alternate.count_RNO[11] 19 7 3 # SB_LUT4 (LogicCell: my_alternate.count[11]_LC_4)
+set_location my_alternate.count[11] 19 7 3 # SB_DFF (LogicCell: my_alternate.count[11]_LC_4)
+set_location my_alternate.count_cry_c[11] 19 7 3 # SB_CARRY (LogicCell: my_alternate.count[11]_LC_4)
+set_location my_alternate.count_RNO[12] 19 7 4 # SB_LUT4 (LogicCell: my_alternate.count[12]_LC_5)
+set_location my_alternate.count[12] 19 7 4 # SB_DFF (LogicCell: my_alternate.count[12]_LC_5)
+set_location my_alternate.count_cry_c[12] 19 7 4 # SB_CARRY (LogicCell: my_alternate.count[12]_LC_5)
+set_location my_alternate.count_RNO[13] 19 7 5 # SB_LUT4 (LogicCell: my_alternate.count[13]_LC_6)
+set_location my_alternate.count[13] 19 7 5 # SB_DFF (LogicCell: my_alternate.count[13]_LC_6)
+set_location my_alternate.count_cry_c[13] 19 7 5 # SB_CARRY (LogicCell: my_alternate.count[13]_LC_6)
+set_location my_alternate.count_RNO[14] 19 7 6 # SB_LUT4 (LogicCell: my_alternate.count[14]_LC_7)
+set_location my_alternate.count[14] 19 7 6 # SB_DFF (LogicCell: my_alternate.count[14]_LC_7)
+set_location my_alternate.count_cry_c[14] 19 7 6 # SB_CARRY (LogicCell: my_alternate.count[14]_LC_7)
+set_location my_alternate.count_RNO[15] 19 7 7 # SB_LUT4 (LogicCell: my_alternate.count[15]_LC_8)
+set_location my_alternate.count[15] 19 7 7 # SB_DFF (LogicCell: my_alternate.count[15]_LC_8)
+set_location my_alternate.count_cry_c[15] 19 7 7 # SB_CARRY (LogicCell: my_alternate.count[15]_LC_8)
+set_location my_alternate.count_RNO[16] 19 8 0 # SB_LUT4 (LogicCell: my_alternate.count[16]_LC_9)
+set_location my_alternate.count[16] 19 8 0 # SB_DFF (LogicCell: my_alternate.count[16]_LC_9)
+set_location my_alternate.count_cry_c[16] 19 8 0 # SB_CARRY (LogicCell: my_alternate.count[16]_LC_9)
+set_location my_alternate.count_RNO[17] 19 8 1 # SB_LUT4 (LogicCell: my_alternate.count[17]_LC_10)
+set_location my_alternate.count[17] 19 8 1 # SB_DFF (LogicCell: my_alternate.count[17]_LC_10)
+set_location my_alternate.count_cry_c[17] 19 8 1 # SB_CARRY (LogicCell: my_alternate.count[17]_LC_10)
+set_location my_alternate.count_RNO[18] 19 8 2 # SB_LUT4 (LogicCell: my_alternate.count[18]_LC_11)
+set_location my_alternate.count[18] 19 8 2 # SB_DFF (LogicCell: my_alternate.count[18]_LC_11)
+set_location my_alternate.count_cry_c[18] 19 8 2 # SB_CARRY (LogicCell: my_alternate.count[18]_LC_11)
+set_location my_alternate.count_RNO[19] 19 8 3 # SB_LUT4 (LogicCell: my_alternate.count[19]_LC_12)
+set_location my_alternate.count[19] 19 8 3 # SB_DFF (LogicCell: my_alternate.count[19]_LC_12)
+set_location my_alternate.count_cry_c[19] 19 8 3 # SB_CARRY (LogicCell: my_alternate.count[19]_LC_12)
+set_location my_alternate.count_RNO[2] 19 6 2 # SB_LUT4 (LogicCell: my_alternate.count[2]_LC_13)
+set_location my_alternate.count[2] 19 6 2 # SB_DFF (LogicCell: my_alternate.count[2]_LC_13)
+set_location my_alternate.count_cry_c[2] 19 6 2 # SB_CARRY (LogicCell: my_alternate.count[2]_LC_13)
+set_location my_alternate.count_RNO[20] 19 8 4 # SB_LUT4 (LogicCell: my_alternate.count[20]_LC_14)
+set_location my_alternate.count[20] 19 8 4 # SB_DFF (LogicCell: my_alternate.count[20]_LC_14)
+set_location my_alternate.count_cry_c[20] 19 8 4 # SB_CARRY (LogicCell: my_alternate.count[20]_LC_14)
+set_location my_alternate.count_RNO[21] 19 8 5 # SB_LUT4 (LogicCell: my_alternate.count[21]_LC_15)
+set_location my_alternate.count[21] 19 8 5 # SB_DFF (LogicCell: my_alternate.count[21]_LC_15)
+set_location my_alternate.count_cry_c[21] 19 8 5 # SB_CARRY (LogicCell: my_alternate.count[21]_LC_15)
+set_location my_alternate.count_RNO[22] 19 8 6 # SB_LUT4 (LogicCell: my_alternate.count[22]_LC_16)
+set_location my_alternate.count[22] 19 8 6 # SB_DFF (LogicCell: my_alternate.count[22]_LC_16)
+set_location my_alternate.count_cry_c[22] 19 8 6 # SB_CARRY (LogicCell: my_alternate.count[22]_LC_16)
+set_location my_alternate.count_RNO[23] 19 8 7 # SB_LUT4 (LogicCell: my_alternate.count[23]_LC_17)
+set_location my_alternate.count[23] 19 8 7 # SB_DFF (LogicCell: my_alternate.count[23]_LC_17)
+set_location my_alternate.count_cry_c[23] 19 8 7 # SB_CARRY (LogicCell: my_alternate.count[23]_LC_17)
+set_location my_alternate.count_RNO[24] 19 9 0 # SB_LUT4 (LogicCell: my_alternate.count[24]_LC_18)
+set_location my_alternate.count[24] 19 9 0 # SB_DFF (LogicCell: my_alternate.count[24]_LC_18)
+set_location my_alternate.count_RNO[3] 19 6 3 # SB_LUT4 (LogicCell: my_alternate.count[3]_LC_19)
+set_location my_alternate.count[3] 19 6 3 # SB_DFF (LogicCell: my_alternate.count[3]_LC_19)
+set_location my_alternate.count_cry_c[3] 19 6 3 # SB_CARRY (LogicCell: my_alternate.count[3]_LC_19)
+set_location my_alternate.count_RNO[4] 19 6 4 # SB_LUT4 (LogicCell: my_alternate.count[4]_LC_20)
+set_location my_alternate.count[4] 19 6 4 # SB_DFF (LogicCell: my_alternate.count[4]_LC_20)
+set_location my_alternate.count_cry_c[4] 19 6 4 # SB_CARRY (LogicCell: my_alternate.count[4]_LC_20)
+set_location my_alternate.count_RNO[5] 19 6 5 # SB_LUT4 (LogicCell: my_alternate.count[5]_LC_21)
+set_location my_alternate.count[5] 19 6 5 # SB_DFF (LogicCell: my_alternate.count[5]_LC_21)
+set_location my_alternate.count_cry_c[5] 19 6 5 # SB_CARRY (LogicCell: my_alternate.count[5]_LC_21)
+set_location my_alternate.count_RNO[6] 19 6 6 # SB_LUT4 (LogicCell: my_alternate.count[6]_LC_22)
+set_location my_alternate.count[6] 19 6 6 # SB_DFF (LogicCell: my_alternate.count[6]_LC_22)
+set_location my_alternate.count_cry_c[6] 19 6 6 # SB_CARRY (LogicCell: my_alternate.count[6]_LC_22)
+set_location my_alternate.count_RNO[7] 19 6 7 # SB_LUT4 (LogicCell: my_alternate.count[7]_LC_23)
+set_location my_alternate.count[7] 19 6 7 # SB_DFF (LogicCell: my_alternate.count[7]_LC_23)
+set_location my_alternate.count_cry_c[7] 19 6 7 # SB_CARRY (LogicCell: my_alternate.count[7]_LC_23)
+set_location my_alternate.count_RNO[8] 19 7 0 # SB_LUT4 (LogicCell: my_alternate.count[8]_LC_24)
+set_location my_alternate.count[8] 19 7 0 # SB_DFF (LogicCell: my_alternate.count[8]_LC_24)
+set_location my_alternate.count_cry_c[8] 19 7 0 # SB_CARRY (LogicCell: my_alternate.count[8]_LC_24)
+set_location my_alternate.count_RNO[9] 19 7 1 # SB_LUT4 (LogicCell: my_alternate.count[9]_LC_25)
+set_location my_alternate.count[9] 19 7 1 # SB_DFF (LogicCell: my_alternate.count[9]_LC_25)
+set_location my_alternate.count_cry_c[9] 19 7 1 # SB_CARRY (LogicCell: my_alternate.count[9]_LC_25)
+set_io ADR_obuf[0] 6 21 0 # ICE_IO
+set_io ADR_obuf[1] 5 21 1 # ICE_IO
+set_io ADR_obuf[10] 25 2 0 # ICE_IO
+set_io ADR_obuf[11] 25 2 1 # ICE_IO
+set_io ADR_obuf[12] 22 21 1 # ICE_IO
+set_io ADR_obuf[13] 22 21 0 # ICE_IO
+set_io ADR_obuf[14] 21 21 1 # ICE_IO
+set_io ADR_obuf[15] 20 21 0 # ICE_IO
+set_io ADR_obuf[16] 19 21 1 # ICE_IO
+set_io ADR_obuf[17] 25 3 1 # ICE_IO
+set_io ADR_obuf[18] 21 0 0 # ICE_IO
+set_io ADR_obuf[2] 5 21 0 # ICE_IO
+set_io ADR_obuf[3] 4 21 0 # ICE_IO
+set_io ADR_obuf[4] 3 21 1 # ICE_IO
+set_io ADR_obuf[5] 5 0 0 # ICE_IO
+set_io ADR_obuf[6] 7 0 1 # ICE_IO
+set_io ADR_obuf[7] 8 0 0 # ICE_IO
+set_io ADR_obuf[8] 25 1 0 # ICE_IO
+set_io ADR_obuf[9] 25 1 1 # ICE_IO
+set_io DAT_obuf[0] 7 21 0 # ICE_IO
+set_io DAT_obuf[1] 7 21 1 # ICE_IO
+set_io DAT_obuf[10] 18 0 0 # ICE_IO
+set_io DAT_obuf[11] 17 0 1 # ICE_IO
+set_io DAT_obuf[12] 13 0 0 # ICE_IO
+set_io DAT_obuf[13] 12 0 1 # ICE_IO
+set_io DAT_obuf[14] 12 0 0 # ICE_IO
+set_io DAT_obuf[15] 11 0 1 # ICE_IO
+set_io DAT_obuf[2] 9 21 1 # ICE_IO
+set_io DAT_obuf[3] 13 21 0 # ICE_IO
+set_io DAT_obuf[4] 14 21 1 # ICE_IO
+set_io DAT_obuf[5] 15 21 0 # ICE_IO
+set_io DAT_obuf[6] 15 21 1 # ICE_IO
+set_io DAT_obuf[7] 18 21 0 # ICE_IO
+set_io DAT_obuf[8] 19 0 0 # ICE_IO
+set_io DAT_obuf[9] 18 0 1 # ICE_IO
+set_location GND -1 -1 -1 # GND
+set_io PMOD_obuf[52] 24 0 1 # ICE_IO
+set_io PMOD_obuf[53] 23 0 0 # ICE_IO
+set_io PMOD_obuf[54] 23 0 1 # ICE_IO
+set_io PMOD_obuf[55] 24 0 0 # ICE_IO
+set_io PMOD_obuft[0] 25 11 0 # ICE_IO
+set_io PMOD_obuft[1] 25 10 0 # ICE_IO
+set_io PMOD_obuft[10] 25 15 1 # ICE_IO
+set_io PMOD_obuft[11] 25 14 0 # ICE_IO
+set_io PMOD_obuft[12] 25 18 1 # ICE_IO
+set_io PMOD_obuft[13] 25 16 1 # ICE_IO
+set_io PMOD_obuft[14] 25 14 1 # ICE_IO
+set_io PMOD_obuft[15] 25 13 1 # ICE_IO
+set_io PMOD_obuft[16] 3 21 0 # ICE_IO
+set_io PMOD_obuft[17] 23 21 0 # ICE_IO
+set_io PMOD_obuft[18] 24 21 0 # ICE_IO
+set_io PMOD_obuft[19] 25 20 0 # ICE_IO
+set_io PMOD_obuft[2] 25 9 0 # ICE_IO
+set_io PMOD_obuft[20] 2 21 1 # ICE_IO
+set_io PMOD_obuft[21] 23 21 1 # ICE_IO
+set_io PMOD_obuft[22] 24 21 1 # ICE_IO
+set_io PMOD_obuft[23] 25 19 1 # ICE_IO
+set_io PMOD_obuft[24] 0 17 0 # ICE_IO
+set_io PMOD_obuft[25] 0 17 1 # ICE_IO
+set_io PMOD_obuft[26] 0 20 0 # ICE_IO
+set_io PMOD_obuft[27] 0 20 1 # ICE_IO
+set_io PMOD_obuft[28] 0 18 0 # ICE_IO
+set_io PMOD_obuft[29] 0 18 1 # ICE_IO
+set_io PMOD_obuft[3] 25 7 1 # ICE_IO
+set_io PMOD_obuft[30] 0 19 0 # ICE_IO
+set_io PMOD_obuft[31] 0 19 1 # ICE_IO
+set_io PMOD_obuft[32] 0 11 0 # ICE_IO
+set_io PMOD_obuft[33] 0 11 1 # ICE_IO
+set_io PMOD_obuft[34] 0 13 0 # ICE_IO
+set_io PMOD_obuft[35] 0 13 1 # ICE_IO
+set_io PMOD_obuft[36] 0 12 0 # ICE_IO
+set_io PMOD_obuft[37] 0 12 1 # ICE_IO
+set_io PMOD_obuft[38] 0 15 0 # ICE_IO
+set_io PMOD_obuft[39] 0 15 1 # ICE_IO
+set_io PMOD_obuft[4] 25 12 1 # ICE_IO
+set_io PMOD_obuft[40] 0 1 0 # ICE_IO
+set_io PMOD_obuft[41] 0 1 1 # ICE_IO
+set_io PMOD_obuft[42] 0 10 0 # ICE_IO
+set_io PMOD_obuft[43] 0 10 1 # ICE_IO
+set_io PMOD_obuft[44] 0 2 0 # ICE_IO
+set_io PMOD_obuft[45] 0 2 1 # ICE_IO
+set_io PMOD_obuft[46] 0 6 0 # ICE_IO
+set_io PMOD_obuft[47] 0 6 1 # ICE_IO
+set_io PMOD_obuft[48] 0 3 0 # ICE_IO
+set_io PMOD_obuft[49] 0 3 1 # ICE_IO
+set_io PMOD_obuft[5] 25 10 1 # ICE_IO
+set_io PMOD_obuft[50] 0 7 0 # ICE_IO
+set_io PMOD_obuft[51] 0 7 1 # ICE_IO
+set_io PMOD_obuft[6] 25 9 1 # ICE_IO
+set_io PMOD_obuft[7] 25 8 1 # ICE_IO
+set_io PMOD_obuft[8] 25 19 0 # ICE_IO
+set_io PMOD_obuft[9] 25 17 0 # ICE_IO
+set_io RAMCS_obuf 6 21 1 # ICE_IO
+set_io RAMOE_obuf 8 0 1 # ICE_IO
+set_io RAMWE_obuf 19 21 0 # ICE_IO
+set_io clk_ibuf_gb_io 12 21 1 # ICE_GB_IO
+set_location CONSTANT_ONE_LUT4 18 12 6 # SB_LUT4 (LogicCell: LC_26)

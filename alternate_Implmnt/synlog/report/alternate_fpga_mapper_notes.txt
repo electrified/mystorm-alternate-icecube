@@ -1,0 +1,20 @@
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_1 (in view: work.chip(verilog)) on net PMOD[51] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_2 (in view: work.chip(verilog)) on net PMOD[50] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_3 (in view: work.chip(verilog)) on net PMOD[49] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_4 (in view: work.chip(verilog)) on net PMOD[48] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_5 (in view: work.chip(verilog)) on net PMOD[47] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_6 (in view: work.chip(verilog)) on net PMOD[46] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_7 (in view: work.chip(verilog)) on net PMOD[45] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_8 (in view: work.chip(verilog)) on net PMOD[44] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_9 (in view: work.chip(verilog)) on net PMOD[43] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_10 (in view: work.chip(verilog)) on net PMOD[42] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MT206 |Auto Constrain mode is enabled
+@N: MO231 :"/home/ed/dev/alternate/alternate/src/alternate.v":23:1:23:6|Found counter in view:work.chip(verilog) instance my_alternate.count[24:0] 
+@N: FX1016 :"/home/ed/dev/alternate/alternate/src/chip.v":18:11:18:13|SB_GB_IO inserted on the port clk.
+@N: BW103 |The default time unit for the Synopsys Constraint File (SDC or FDC) is 1ns.
+@N: BW107 |Synopsys Constraint File capacitance units using default value of 1pF 
+@N: FX1056 |Writing EDF file: /home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.edf
+@N: MT320 |This timing report is an estimate of place and route data. For final timing results, use the FPGA vendor place and route report.
+@N: MT322 |Clock constraints include only register-to-register paths associated with each individual clock.

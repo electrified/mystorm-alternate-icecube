@@ -1,0 +1,32 @@
+ble_pack my_alternate.count[0]_LC_1 {my_alternate.count[0], my_alternate.count_cry_c[0], my_alternate.count_RNO[0]}
+ble_pack my_alternate.count[1]_LC_2 {my_alternate.count[1], my_alternate.count_cry_c[1], my_alternate.count_RNO[1]}
+ble_pack my_alternate.count[2]_LC_13 {my_alternate.count[2], my_alternate.count_cry_c[2], my_alternate.count_RNO[2]}
+ble_pack my_alternate.count[3]_LC_19 {my_alternate.count[3], my_alternate.count_cry_c[3], my_alternate.count_RNO[3]}
+ble_pack my_alternate.count[4]_LC_20 {my_alternate.count[4], my_alternate.count_cry_c[4], my_alternate.count_RNO[4]}
+ble_pack my_alternate.count[5]_LC_21 {my_alternate.count[5], my_alternate.count_cry_c[5], my_alternate.count_RNO[5]}
+ble_pack my_alternate.count[6]_LC_22 {my_alternate.count[6], my_alternate.count_cry_c[6], my_alternate.count_RNO[6]}
+ble_pack my_alternate.count[7]_LC_23 {my_alternate.count[7], my_alternate.count_cry_c[7], my_alternate.count_RNO[7]}
+clb_pack PLB_0 {my_alternate.count[0]_LC_1, my_alternate.count[1]_LC_2, my_alternate.count[2]_LC_13, my_alternate.count[3]_LC_19, my_alternate.count[4]_LC_20, my_alternate.count[5]_LC_21, my_alternate.count[6]_LC_22, my_alternate.count[7]_LC_23}
+ble_pack my_alternate.count[8]_LC_24 {my_alternate.count[8], my_alternate.count_cry_c[8], my_alternate.count_RNO[8]}
+ble_pack my_alternate.count[9]_LC_25 {my_alternate.count[9], my_alternate.count_cry_c[9], my_alternate.count_RNO[9]}
+ble_pack my_alternate.count[10]_LC_3 {my_alternate.count[10], my_alternate.count_cry_c[10], my_alternate.count_RNO[10]}
+ble_pack my_alternate.count[11]_LC_4 {my_alternate.count[11], my_alternate.count_cry_c[11], my_alternate.count_RNO[11]}
+ble_pack my_alternate.count[12]_LC_5 {my_alternate.count[12], my_alternate.count_cry_c[12], my_alternate.count_RNO[12]}
+ble_pack my_alternate.count[13]_LC_6 {my_alternate.count[13], my_alternate.count_cry_c[13], my_alternate.count_RNO[13]}
+ble_pack my_alternate.count[14]_LC_7 {my_alternate.count[14], my_alternate.count_cry_c[14], my_alternate.count_RNO[14]}
+ble_pack my_alternate.count[15]_LC_8 {my_alternate.count[15], my_alternate.count_cry_c[15], my_alternate.count_RNO[15]}
+clb_pack PLB_1 {my_alternate.count[8]_LC_24, my_alternate.count[9]_LC_25, my_alternate.count[10]_LC_3, my_alternate.count[11]_LC_4, my_alternate.count[12]_LC_5, my_alternate.count[13]_LC_6, my_alternate.count[14]_LC_7, my_alternate.count[15]_LC_8}
+ble_pack my_alternate.count[16]_LC_9 {my_alternate.count[16], my_alternate.count_cry_c[16], my_alternate.count_RNO[16]}
+ble_pack my_alternate.count[17]_LC_10 {my_alternate.count[17], my_alternate.count_cry_c[17], my_alternate.count_RNO[17]}
+ble_pack my_alternate.count[18]_LC_11 {my_alternate.count[18], my_alternate.count_cry_c[18], my_alternate.count_RNO[18]}
+ble_pack my_alternate.count[19]_LC_12 {my_alternate.count[19], my_alternate.count_cry_c[19], my_alternate.count_RNO[19]}
+ble_pack my_alternate.count[20]_LC_14 {my_alternate.count[20], my_alternate.count_cry_c[20], my_alternate.count_RNO[20]}
+ble_pack my_alternate.count[21]_LC_15 {my_alternate.count[21], my_alternate.count_cry_c[21], my_alternate.count_RNO[21]}
+ble_pack my_alternate.count[22]_LC_16 {my_alternate.count[22], my_alternate.count_cry_c[22], my_alternate.count_RNO[22]}
+ble_pack my_alternate.count[23]_LC_17 {my_alternate.count[23], my_alternate.count_cry_c[23], my_alternate.count_RNO[23]}
+clb_pack PLB_2 {my_alternate.count[16]_LC_9, my_alternate.count[17]_LC_10, my_alternate.count[18]_LC_11, my_alternate.count[19]_LC_12, my_alternate.count[20]_LC_14, my_alternate.count[21]_LC_15, my_alternate.count[22]_LC_16, my_alternate.count[23]_LC_17}
+ble_pack my_alternate.count[24]_LC_18 {my_alternate.count[24], my_alternate.count_RNO[24]}
+ble_pack my_alternate.count_RNIQ674[24]_LC_0 {my_alternate.count_RNIQ674[24]}
+clb_pack PLB_3 {my_alternate.count[24]_LC_18, my_alternate.count_RNIQ674[24]_LC_0}
+ble_pack LC_26 {CONSTANT_ONE_LUT4}
+clb_pack PLB_4 {LC_26}

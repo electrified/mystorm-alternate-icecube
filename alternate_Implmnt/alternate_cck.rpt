@@ -1,0 +1,156 @@
+# Synopsys Constraint Checker, version maplat, Build 1612R, built Dec  5 2016
+# Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+# Written on Sun Feb 18 15:14:38 2018
+
+
+##### DESIGN INFO #######################################################
+
+Top View:                "chip"
+Constraint File(s):      (none)
+
+
+
+
+##### SUMMARY ############################################################
+
+Found 0 issues in 0 out of 0 constraints
+
+
+##### DETAILS ############################################################
+
+
+
+Clock Relationships
+*******************
+
+Starting     Ending       |     rise to rise     |     fall to fall     |     rise to fall     |     fall to rise                     
+-------------------------------------------------------------------------------------------------------------------------------------
+chip|clk     chip|clk     |     3.844            |     No paths         |     No paths         |     No paths                         
+=====================================================================================================================================
+ Note: 'No paths' indicates there are no paths in the design for that pair of clock edges.
+       'Diff grp' indicates that paths exist but the starting clock and ending clock are in different clock groups.
+
+
+Unconstrained Start/End Points
+******************************
+
+p:ADR[0]
+p:ADR[1]
+p:ADR[2]
+p:ADR[3]
+p:ADR[4]
+p:ADR[5]
+p:ADR[6]
+p:ADR[7]
+p:ADR[8]
+p:ADR[9]
+p:ADR[10]
+p:ADR[11]
+p:ADR[12]
+p:ADR[13]
+p:ADR[14]
+p:ADR[15]
+p:ADR[16]
+p:ADR[17]
+p:ADR[18]
+p:DAT[0]
+p:DAT[1]
+p:DAT[2]
+p:DAT[3]
+p:DAT[4]
+p:DAT[5]
+p:DAT[6]
+p:DAT[7]
+p:DAT[8]
+p:DAT[9]
+p:DAT[10]
+p:DAT[11]
+p:DAT[12]
+p:DAT[13]
+p:DAT[14]
+p:DAT[15]
+p:PMOD[0]
+p:PMOD[1]
+p:PMOD[2]
+p:PMOD[3]
+p:PMOD[4]
+p:PMOD[5]
+p:PMOD[6]
+p:PMOD[7]
+p:PMOD[8]
+p:PMOD[9]
+p:PMOD[10]
+p:PMOD[11]
+p:PMOD[12]
+p:PMOD[13]
+p:PMOD[14]
+p:PMOD[15]
+p:PMOD[16]
+p:PMOD[17]
+p:PMOD[18]
+p:PMOD[19]
+p:PMOD[20]
+p:PMOD[21]
+p:PMOD[22]
+p:PMOD[23]
+p:PMOD[24]
+p:PMOD[25]
+p:PMOD[26]
+p:PMOD[27]
+p:PMOD[28]
+p:PMOD[29]
+p:PMOD[30]
+p:PMOD[31]
+p:PMOD[32]
+p:PMOD[33]
+p:PMOD[34]
+p:PMOD[35]
+p:PMOD[36]
+p:PMOD[37]
+p:PMOD[38]
+p:PMOD[39]
+p:PMOD[40]
+p:PMOD[41]
+p:PMOD[42]
+p:PMOD[43]
+p:PMOD[44]
+p:PMOD[45]
+p:PMOD[46]
+p:PMOD[47]
+p:PMOD[48]
+p:PMOD[49]
+p:PMOD[50]
+p:PMOD[51]
+p:PMOD[52]
+p:PMOD[53]
+p:PMOD[54]
+p:PMOD[55]
+p:RAMCS
+p:RAMOE
+p:RAMWE
+
+
+Inapplicable constraints
+************************
+
+(none)
+
+
+Applicable constraints with issues
+**********************************
+
+(none)
+
+
+Constraints with matching wildcard expressions
+**********************************************
+
+(none)
+
+
+Library Report
+**************
+
+
+# End of Constraint Checker Report

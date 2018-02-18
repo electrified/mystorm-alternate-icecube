@@ -1,0 +1,25 @@
+---------------------------------------
+Resource Usage Report for chip 
+
+Mapping to part: ice40hx4ktq144
+Cell usage:
+GND             1 use
+SB_CARRY        24 uses
+SB_DFF          25 uses
+VCC             1 use
+SB_LUT4         26 uses
+
+I/O ports: 95
+I/O primitives: 95
+SB_GB_IO       1 use
+SB_IO          94 uses
+
+I/O Register bits:                  0
+Register bits not including I/Os:   25 (0%)
+
+@S |Mapping Summary:
+Total  LUTs: 26 (0%)
+
+Distribution of All Consumed LUTs = LUT4 
+Distribution of All Consumed Luts 26 = 26 
+

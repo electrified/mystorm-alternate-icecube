@@ -1,0 +1,187 @@
+* ******************************************************************************
+
+* iCEcube Report
+
+* Version:            2017.08.27940
+
+* Build Date:         Sep 12 2017 08:02:28
+
+* File Generated:     Feb 18 2018 15:14:41
+
+* Purpose:            General info of design implementation
+
+* Copyright (C) 2006-2010 by Lattice Semiconductor Corp. All rights reserved.
+
+* ******************************************************************************
+
+Synthesis/Placement Summary:
+----------------------------
+    Status:  Successful
+    Runtime: 0 seconds
+
+Device Info:
+------------
+    Device Family: iCE40
+    Device:        iCE40HX4K
+    Package:       TQ144
+
+Design statistics:
+------------------
+    FFs:                  25
+    LUTs:                 27
+    RAMs:                 0
+    IOBs:                 95
+    GBs:                  1
+    PLLs:                 0
+    Warm Boots:           0
+
+Logic Resource Utilization:
+---------------------------
+    Total Logic Cells: 27/3520
+        Combinational Logic Cells: 2        out of   3520      0.0568182%
+        Sequential Logic Cells:    25       out of   3520      0.710227%
+        Logic Tiles:               6        out of   440       1.36364%
+    Registers: 
+        Logic Registers:           25       out of   3520      0.710227%
+        IO Registers:              0        out of   880       0
+    Block RAMs:                    0        out of   20        0%
+    Warm Boots:                    0        out of   1         0%
+    Pins:
+        Input Pins:                1        out of   107       0.934579%
+        Output Pins:               94       out of   107       87.8505%
+        InOut Pins:                0        out of   107       0%
+    Global Buffers:                1        out of   8         12.5%
+    PLLs:                          0        out of   2         0%
+
+IO Bank Utilization:
+--------------------
+    Bank 3: 28       out of   28        100%
+    Bank 1: 23       out of   29        79.3103%
+    Bank 0: 27       out of   27        100%
+    Bank 2: 17       out of   23        73.913%
+
+Detailed I/O Info:
+------------------
+    Input Pins: 
+    Pin Number  Direction  IO Standard  Pull Up  IO Bank  IO Function                   Signal Name
+    ----------  ---------  -----------  -------  -------  -----------                   -----------
+    129         Input      SB_LVCMOS    No       0        Simple Input                  clk       
+
+    Output Pins: 
+    Pin Number  Direction  IO Standard  Pull Up  IO Bank  IO Function                   Signal Name
+    ----------  ---------  -----------  -------  -------  -----------                   -----------
+    1           Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[27]  
+    2           Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[26]  
+    3           Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[31]  
+    4           Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[30]  
+    7           Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[29]  
+    8           Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[28]  
+    9           Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[25]  
+    10          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[24]  
+    11          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[39]  
+    12          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[38]  
+    15          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[35]  
+    16          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[34]  
+    17          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[37]  
+    18          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[36]  
+    19          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[33]  
+    20          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[32]  
+    21          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[43]  
+    22          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[42]  
+    23          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[51]  
+    24          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[50]  
+    25          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[47]  
+    26          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[46]  
+    28          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[49]  
+    29          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[48]  
+    31          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[45]  
+    32          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[44]  
+    33          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[41]  
+    34          Output     SB_LVCMOS    No       3        Output Tristatable by Enable  PMOD[40]  
+    42          Output     SB_LVCMOS    No       2        Simple Output                 ADR[5]    
+    43          Output     SB_LVCMOS    No       2        Simple Output                 ADR[6]    
+    44          Output     SB_LVCMOS    No       2        Simple Output                 ADR[7]    
+    45          Output     SB_LVCMOS    No       2        Simple Output                 RAMOE     
+    47          Output     SB_LVCMOS    No       2        Simple Output                 DAT[15]   
+    48          Output     SB_LVCMOS    No       2        Simple Output                 DAT[14]   
+    49          Output     SB_LVCMOS    No       2        Simple Output                 DAT[13]   
+    52          Output     SB_LVCMOS    No       2        Simple Output                 DAT[12]   
+    55          Output     SB_LVCMOS    No       2        Simple Output                 DAT[11]   
+    56          Output     SB_LVCMOS    No       2        Simple Output                 DAT[10]   
+    60          Output     SB_LVCMOS    No       2        Simple Output                 DAT[9]    
+    61          Output     SB_LVCMOS    No       2        Simple Output                 DAT[8]    
+    62          Output     SB_LVCMOS    No       2        Simple Output                 ADR[18]   
+    67          Output     SB_LVCMOS    No       2        Simple Output                 PMOD[53]  
+    68          Output     SB_LVCMOS    No       2        Simple Output                 PMOD[54]  
+    70          Output     SB_LVCMOS    No       2        Simple Output                 PMOD[55]  
+    71          Output     SB_LVCMOS    No       2        Simple Output                 PMOD[52]  
+    73          Output     SB_LVCMOS    No       1        Simple Output                 ADR[8]    
+    74          Output     SB_LVCMOS    No       1        Simple Output                 ADR[9]    
+    75          Output     SB_LVCMOS    No       1        Simple Output                 ADR[10]   
+    76          Output     SB_LVCMOS    No       1        Simple Output                 ADR[11]   
+    78          Output     SB_LVCMOS    No       1        Simple Output                 ADR[17]   
+    85          Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[3]   
+    87          Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[7]   
+    88          Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[2]   
+    90          Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[6]   
+    91          Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[1]   
+    93          Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[5]   
+    94          Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[0]   
+    95          Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[4]   
+    96          Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[15]  
+    97          Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[11]  
+    98          Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[14]  
+    99          Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[10]  
+    101         Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[13]  
+    102         Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[9]   
+    104         Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[12]  
+    105         Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[8]   
+    106         Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[23]  
+    107         Output     SB_LVCMOS    No       1        Output Tristatable by Enable  PMOD[19]  
+    110         Output     SB_LVCMOS    No       0        Output Tristatable by Enable  PMOD[22]  
+    112         Output     SB_LVCMOS    No       0        Output Tristatable by Enable  PMOD[18]  
+    113         Output     SB_LVCMOS    No       0        Output Tristatable by Enable  PMOD[21]  
+    114         Output     SB_LVCMOS    No       0        Output Tristatable by Enable  PMOD[17]  
+    115         Output     SB_LVCMOS    No       0        Simple Output                 ADR[12]   
+    116         Output     SB_LVCMOS    No       0        Simple Output                 ADR[13]   
+    117         Output     SB_LVCMOS    No       0        Simple Output                 ADR[14]   
+    118         Output     SB_LVCMOS    No       0        Simple Output                 ADR[15]   
+    119         Output     SB_LVCMOS    No       0        Simple Output                 ADR[16]   
+    120         Output     SB_LVCMOS    No       0        Simple Output                 RAMWE     
+    121         Output     SB_LVCMOS    No       0        Simple Output                 DAT[7]    
+    122         Output     SB_LVCMOS    No       0        Simple Output                 DAT[6]    
+    124         Output     SB_LVCMOS    No       0        Simple Output                 DAT[5]    
+    125         Output     SB_LVCMOS    No       0        Simple Output                 DAT[4]    
+    128         Output     SB_LVCMOS    No       0        Simple Output                 DAT[3]    
+    130         Output     SB_LVCMOS    No       0        Simple Output                 DAT[2]    
+    134         Output     SB_LVCMOS    No       0        Simple Output                 DAT[1]    
+    135         Output     SB_LVCMOS    No       0        Simple Output                 DAT[0]    
+    136         Output     SB_LVCMOS    No       0        Simple Output                 RAMCS     
+    137         Output     SB_LVCMOS    No       0        Simple Output                 ADR[0]    
+    138         Output     SB_LVCMOS    No       0        Simple Output                 ADR[1]    
+    139         Output     SB_LVCMOS    No       0        Simple Output                 ADR[2]    
+    141         Output     SB_LVCMOS    No       0        Simple Output                 ADR[3]    
+    142         Output     SB_LVCMOS    No       0        Simple Output                 ADR[4]    
+    143         Output     SB_LVCMOS    No       0        Output Tristatable by Enable  PMOD[16]  
+    144         Output     SB_LVCMOS    No       0        Output Tristatable by Enable  PMOD[20]  
+
+Detailed Global Buffer Info:
+----------------------------
+    Buffer Number  IO Bank  Driven By  Fanout  Signal Name
+    -------------  -------  ---------  ------  -----------
+    7              0        IO         25      clk_c_g  
+
+
+Router Summary:
+---------------
+    Status:  Successful
+    Runtime: 9 seconds
+
+Routing Resource Utilization:
+-----------------------------
+              Local line of tile      173 out of 146184      0.118344%
+                          Span 4       18 out of  29696      0.0606142%
+                         Span 12        6 out of   5632      0.106534%
+                  Global network        1 out of      8      12.5%
+      Vertical Inter-LUT Connect        0 out of   6720      0%
+

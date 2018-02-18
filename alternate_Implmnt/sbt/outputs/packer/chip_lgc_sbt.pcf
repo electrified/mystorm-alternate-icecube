@@ -1,0 +1,176 @@
+set_location IN_MUX_bfv_19_6_0_ 19 6 0 #ICE_CARRY_IN_MUX
+set_location IN_MUX_bfv_19_7_0_ 19 7 0 #ICE_CARRY_IN_MUX
+set_location IN_MUX_bfv_19_8_0_ 19 8 0 #ICE_CARRY_IN_MUX
+set_location IN_MUX_bfv_19_9_0_ 19 9 0 #ICE_CARRY_IN_MUX
+set_location CONSTANT_ONE_LUT4 18 12 6 #SB_LUT4
+set_location my_alternate.count_cry_c[9] 19 7 1 #SB_CARRY
+set_location my_alternate.count_cry_c[8] 19 7 0 #SB_CARRY
+set_location my_alternate.count_cry_c[7] 19 6 7 #SB_CARRY
+set_location my_alternate.count_cry_c[6] 19 6 6 #SB_CARRY
+set_location my_alternate.count_cry_c[5] 19 6 5 #SB_CARRY
+set_location my_alternate.count_cry_c[4] 19 6 4 #SB_CARRY
+set_location my_alternate.count_cry_c[3] 19 6 3 #SB_CARRY
+set_location my_alternate.count_cry_c[23] 19 8 7 #SB_CARRY
+set_location my_alternate.count_cry_c[22] 19 8 6 #SB_CARRY
+set_location my_alternate.count_cry_c[21] 19 8 5 #SB_CARRY
+set_location my_alternate.count_cry_c[20] 19 8 4 #SB_CARRY
+set_location my_alternate.count_cry_c[2] 19 6 2 #SB_CARRY
+set_location my_alternate.count_cry_c[19] 19 8 3 #SB_CARRY
+set_location my_alternate.count_cry_c[18] 19 8 2 #SB_CARRY
+set_location my_alternate.count_cry_c[17] 19 8 1 #SB_CARRY
+set_location my_alternate.count_cry_c[16] 19 8 0 #SB_CARRY
+set_location my_alternate.count_cry_c[15] 19 7 7 #SB_CARRY
+set_location my_alternate.count_cry_c[14] 19 7 6 #SB_CARRY
+set_location my_alternate.count_cry_c[13] 19 7 5 #SB_CARRY
+set_location my_alternate.count_cry_c[12] 19 7 4 #SB_CARRY
+set_location my_alternate.count_cry_c[11] 19 7 3 #SB_CARRY
+set_location my_alternate.count_cry_c[10] 19 7 2 #SB_CARRY
+set_location my_alternate.count_cry_c[1] 19 6 1 #SB_CARRY
+set_location my_alternate.count_cry_c[0] 19 6 0 #SB_CARRY
+set_location my_alternate.count_RNO[9] 19 7 1 #SB_LUT4
+set_location my_alternate.count_RNO[8] 19 7 0 #SB_LUT4
+set_location my_alternate.count_RNO[7] 19 6 7 #SB_LUT4
+set_location my_alternate.count_RNO[6] 19 6 6 #SB_LUT4
+set_location my_alternate.count_RNO[5] 19 6 5 #SB_LUT4
+set_location my_alternate.count_RNO[4] 19 6 4 #SB_LUT4
+set_location my_alternate.count_RNO[3] 19 6 3 #SB_LUT4
+set_location my_alternate.count_RNO[24] 19 9 0 #SB_LUT4
+set_location my_alternate.count_RNO[23] 19 8 7 #SB_LUT4
+set_location my_alternate.count_RNO[22] 19 8 6 #SB_LUT4
+set_location my_alternate.count_RNO[21] 19 8 5 #SB_LUT4
+set_location my_alternate.count_RNO[20] 19 8 4 #SB_LUT4
+set_location my_alternate.count_RNO[2] 19 6 2 #SB_LUT4
+set_location my_alternate.count_RNO[19] 19 8 3 #SB_LUT4
+set_location my_alternate.count_RNO[18] 19 8 2 #SB_LUT4
+set_location my_alternate.count_RNO[17] 19 8 1 #SB_LUT4
+set_location my_alternate.count_RNO[16] 19 8 0 #SB_LUT4
+set_location my_alternate.count_RNO[15] 19 7 7 #SB_LUT4
+set_location my_alternate.count_RNO[14] 19 7 6 #SB_LUT4
+set_location my_alternate.count_RNO[13] 19 7 5 #SB_LUT4
+set_location my_alternate.count_RNO[12] 19 7 4 #SB_LUT4
+set_location my_alternate.count_RNO[11] 19 7 3 #SB_LUT4
+set_location my_alternate.count_RNO[10] 19 7 2 #SB_LUT4
+set_location my_alternate.count_RNO[1] 19 6 1 #SB_LUT4
+set_location my_alternate.count_RNO[0] 19 6 0 #SB_LUT4
+set_location my_alternate.count_RNIQ674[24] 23 1 1 #SB_LUT4
+set_location my_alternate.count[9] 19 7 1 #SB_DFF
+set_location my_alternate.count[8] 19 7 0 #SB_DFF
+set_location my_alternate.count[7] 19 6 7 #SB_DFF
+set_location my_alternate.count[6] 19 6 6 #SB_DFF
+set_location my_alternate.count[5] 19 6 5 #SB_DFF
+set_location my_alternate.count[4] 19 6 4 #SB_DFF
+set_location my_alternate.count[3] 19 6 3 #SB_DFF
+set_location my_alternate.count[24] 19 9 0 #SB_DFF
+set_location my_alternate.count[23] 19 8 7 #SB_DFF
+set_location my_alternate.count[22] 19 8 6 #SB_DFF
+set_location my_alternate.count[21] 19 8 5 #SB_DFF
+set_location my_alternate.count[20] 19 8 4 #SB_DFF
+set_location my_alternate.count[2] 19 6 2 #SB_DFF
+set_location my_alternate.count[19] 19 8 3 #SB_DFF
+set_location my_alternate.count[18] 19 8 2 #SB_DFF
+set_location my_alternate.count[17] 19 8 1 #SB_DFF
+set_location my_alternate.count[16] 19 8 0 #SB_DFF
+set_location my_alternate.count[15] 19 7 7 #SB_DFF
+set_location my_alternate.count[14] 19 7 6 #SB_DFF
+set_location my_alternate.count[13] 19 7 5 #SB_DFF
+set_location my_alternate.count[12] 19 7 4 #SB_DFF
+set_location my_alternate.count[11] 19 7 3 #SB_DFF
+set_location my_alternate.count[10] 19 7 2 #SB_DFF
+set_location my_alternate.count[1] 19 6 1 #SB_DFF
+set_location my_alternate.count[0] 19 6 0 #SB_DFF
+set_location GND -1 -1 -1 #GND
+set_io clk 129
+set_io RAMWE 120
+set_io RAMOE 45
+set_io RAMCS 136
+set_io PMOD[9] 102
+set_io PMOD[8] 105
+set_io PMOD[7] 87
+set_io PMOD[6] 90
+set_io PMOD[55] 70
+set_io PMOD[54] 68
+set_io PMOD[53] 67
+set_io PMOD[52] 71
+set_io PMOD[51] 23
+set_io PMOD[50] 24
+set_io PMOD[5] 93
+set_io PMOD[49] 28
+set_io PMOD[48] 29
+set_io PMOD[47] 25
+set_io PMOD[46] 26
+set_io PMOD[45] 31
+set_io PMOD[44] 32
+set_io PMOD[43] 21
+set_io PMOD[42] 22
+set_io PMOD[41] 33
+set_io PMOD[40] 34
+set_io PMOD[4] 95
+set_io PMOD[39] 11
+set_io PMOD[38] 12
+set_io PMOD[37] 17
+set_io PMOD[36] 18
+set_io PMOD[35] 15
+set_io PMOD[34] 16
+set_io PMOD[33] 19
+set_io PMOD[32] 20
+set_io PMOD[31] 3
+set_io PMOD[30] 4
+set_io PMOD[3] 85
+set_io PMOD[29] 7
+set_io PMOD[28] 8
+set_io PMOD[27] 1
+set_io PMOD[26] 2
+set_io PMOD[25] 9
+set_io PMOD[24] 10
+set_io PMOD[23] 106
+set_io PMOD[22] 110
+set_io PMOD[21] 113
+set_io PMOD[20] 144
+set_io PMOD[2] 88
+set_io PMOD[19] 107
+set_io PMOD[18] 112
+set_io PMOD[17] 114
+set_io PMOD[16] 143
+set_io PMOD[15] 96
+set_io PMOD[14] 98
+set_io PMOD[13] 101
+set_io PMOD[12] 104
+set_io PMOD[11] 97
+set_io PMOD[10] 99
+set_io PMOD[1] 91
+set_io PMOD[0] 94
+set_io DAT[9] 60
+set_io DAT[8] 61
+set_io DAT[7] 121
+set_io DAT[6] 122
+set_io DAT[5] 124
+set_io DAT[4] 125
+set_io DAT[3] 128
+set_io DAT[2] 130
+set_io DAT[15] 47
+set_io DAT[14] 48
+set_io DAT[13] 49
+set_io DAT[12] 52
+set_io DAT[11] 55
+set_io DAT[10] 56
+set_io DAT[1] 134
+set_io DAT[0] 135
+set_io ADR[9] 74
+set_io ADR[8] 73
+set_io ADR[7] 44
+set_io ADR[6] 43
+set_io ADR[5] 42
+set_io ADR[4] 142
+set_io ADR[3] 141
+set_io ADR[2] 139
+set_io ADR[18] 62
+set_io ADR[17] 78
+set_io ADR[16] 119
+set_io ADR[15] 118
+set_io ADR[14] 117
+set_io ADR[13] 116
+set_io ADR[12] 115
+set_io ADR[11] 76
+set_io ADR[10] 75
+set_io ADR[1] 138
+set_io ADR[0] 137

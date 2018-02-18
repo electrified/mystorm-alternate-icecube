@@ -1,0 +1,13 @@
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_1 (in view: work.chip(verilog)) on net PMOD[51] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_2 (in view: work.chip(verilog)) on net PMOD[50] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_3 (in view: work.chip(verilog)) on net PMOD[49] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_4 (in view: work.chip(verilog)) on net PMOD[48] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_5 (in view: work.chip(verilog)) on net PMOD[47] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_6 (in view: work.chip(verilog)) on net PMOD[46] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_7 (in view: work.chip(verilog)) on net PMOD[45] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_8 (in view: work.chip(verilog)) on net PMOD[44] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_9 (in view: work.chip(verilog)) on net PMOD[43] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: MO111 :"/home/ed/dev/alternate/alternate/src/chip.v":26:18:26:21|Tristate driver PMOD_10 (in view: work.chip(verilog)) on net PMOD[42] (in view: work.chip(verilog)) has its enable tied to GND.
+@N: BN225 |Writing default property annotation file /home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.sap.

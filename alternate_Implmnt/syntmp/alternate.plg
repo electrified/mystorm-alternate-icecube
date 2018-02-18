@@ -1,0 +1,12 @@
+@P:  Worst Slack : -1.076
+@P:  chip|clk - Estimated Frequency : 139.5 MHz
+@P:  chip|clk - Requested Frequency : 164.1 MHz
+@P:  chip|clk - Estimated Period : 7.170
+@P:  chip|clk - Requested Period : 6.094
+@P:  chip|clk - Slack : -1.076
+@P: chip Part : ice40hx4ktq144
+@P: chip I/O primitives : 95
+@P: chip I/O Register bits : 0
+@P: chip Register bits (Non I/O) : 25 (0%)
+@P: chip Total Luts : 26 (0%)
+@P:  CPU Time : 0h:00m:00s

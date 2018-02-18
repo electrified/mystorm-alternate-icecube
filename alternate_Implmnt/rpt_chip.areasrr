@@ -1,0 +1,56 @@
+#### START OF AREA REPORT #####[
+
+Part:			ICE40HX4KTQ144 (Lattice)
+
+--------------------------------------------------------------------
+########   Utilization report for  Top level view:   chip   ########
+====================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     25                 100 %                
+==================================================
+Total SEQUENTIAL ELEMENTS in the block chip:	25 (14.37 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       26                 100 %                
+CARRYS     24                 100 %                
+===================================================
+Total COMBINATIONAL LOGIC in the block chip:	50 (28.74 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     95                 100 %                
+=================================================
+Total IO PADS in the block chip:	95 (54.60 % Utilization)
+
+---------------------------------------------------------------
+########   Utilization report for  cell:   alternate   ########
+Instance path:   chip.alternate                                
+===============================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     25                 100 %                
+==================================================
+Total SEQUENTIAL ELEMENTS in the block chip.alternate:	25 (14.37 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       26                 100 %                
+CARRYS     24                 100 %                
+===================================================
+Total COMBINATIONAL LOGIC in the block chip.alternate:	50 (28.74 % Utilization)
+
+
+##### END OF AREA REPORT #####]
+

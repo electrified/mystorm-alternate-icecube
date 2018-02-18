@@ -1,0 +1,13 @@
+/home/ed/lscc/iCEcube2.2017.08/synpbase/bin/m_generic  -prodtype  synplify_pro   -encrypt  -pro  -rundir  /home/ed/dev/alternate/alternate/alternate_Implmnt   -part iCE40HX4K  -package TQ144    -maxfan 10000 -RWCheckOnRam 0 -pipe -fixgatedclocks 1 -fixgeneratedclocks 1 -summaryfile /home/ed/dev/alternate/alternate/alternate_Implmnt/synlog/report/alternate_premap.xml  -oedif  /home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.edf  -conchk_prepass  /home/ed/dev/alternate/alternate/alternate_Implmnt/alternate_cck.rpt   -autoconstraint  -freq 1.000   /home/ed/dev/alternate/alternate/alternate_Implmnt/synwork/alternate_mult.srs  -flow prepass  -gcc_prepass  -osrd  /home/ed/dev/alternate/alternate/alternate_Implmnt/synwork/alternate_prem.srd  -qsap  /home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.sap  -devicelib  /home/ed/lscc/iCEcube2.2017.08/synpbase/lib/generic/sb_ice40.v  -ologparam  /home/ed/dev/alternate/alternate/alternate_Implmnt/syntmp/alternate.plg  -osyn  /home/ed/dev/alternate/alternate/alternate_Implmnt/synwork/alternate_prem.srd  -prjdir  /home/ed/dev/alternate/alternate/  -prjname  alternate_syn  -log  /home/ed/dev/alternate/alternate/alternate_Implmnt/synlog/alternate_premap.srr 
+rc:1 success:1 runtime:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.edf|io:o|time:0|size:0|exec:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/alternate_cck.rpt|io:o|time:1518966878|size:2984|exec:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/synwork/alternate_mult.srs|io:i|time:1518966878|size:2526|exec:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/synwork/alternate_prem.srd|io:o|time:1518966878|size:4313|exec:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/alternate.sap|io:o|time:1518966878|size:361|exec:0
+file:/home/ed/lscc/iCEcube2.2017.08/synpbase/lib/generic/sb_ice40.v|io:i|time:1512420706|size:220434|exec:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/syntmp/alternate.plg|io:o|time:1518966878|size:0|exec:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/synwork/alternate_prem.srd|io:o|time:1518966878|size:4313|exec:0
+file:/home/ed/dev/alternate/alternate/alternate_Implmnt/synlog/alternate_premap.srr|io:o|time:1518966878|size:5325|exec:0
+file:/home/ed/lscc/iCEcube2.2017.08/synpbase/linux_a_64/m_generic|io:i|time:1512420707|size:32925640|exec:1
+file:/home/ed/lscc/iCEcube2.2017.08/synpbase/bin/m_generic|io:i|time:1512420705|size:345|exec:1
